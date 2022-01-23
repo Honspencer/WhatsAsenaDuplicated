@@ -98,7 +98,7 @@ the user is responsible.
   <a href="httsp://github.com/Honspencer/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
   </a>
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/Honspencer/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square&label=Docker+Image+Size+(Latest+by+Date)">
   </a>
 </p>
@@ -106,10 +106,10 @@ the user is responsible.
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Honspencer/WhatsAsenaDuplicated/wiki)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Phaticusthiccy](https://github.com/phaticusthiccy). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec) and Developed by [Honspencer](https://github.com/Honspencer). Does not log into your account It is written on WhatsApp Web API.
 
 ## ❓ Duplicated?
 **WhatsAsenaDuplicated** is the continue of **WhatsAsena**. We renewed repository about 5-6 months ago. So, **WhatsAsena** and **WhatsAsenaDuplicated** are the same.
@@ -120,7 +120,7 @@ the user is responsible.
 
 ### Simple Method 
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccy/WhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/Honspencer/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccyWhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
