@@ -95,7 +95,7 @@ the user is responsible.
 
 ----
 <p align="center">
-  <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
+  <a href="httsp://github.com/Honspencer/WhatsAsenaDuplicated">
     <img src="https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square&label=Docker+Pulls+(Active+User+Count)">
   </a>
   <a href="httsp://github.com/phaticusthiccy/WhatsAsenaDuplicated">
