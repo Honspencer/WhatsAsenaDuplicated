@@ -132,7 +132,7 @@ $ git clone https://github.com/Honspencer/WhatsAsenaDuplicated.git
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano config.env
-// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
+// Config.env oluşturun ve düzenleyin. Örnek: https://github.com/Honspencer/WhatsAsenaDuplicated/wiki/config.env-Example
 // Create Config.env and edit it. Examle: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
 $ node bot.js
 ```
