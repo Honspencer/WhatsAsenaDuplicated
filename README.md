@@ -122,7 +122,7 @@ the user is responsible.
 
 [![Run on Repl.it](https://repl.it/badge/github/Honspencer/WhatsAsenaDuplicated)](https://repl.it/@Honspencer/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Honspencer/WhatsAsenaDuplicated)
 
 > [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
 
