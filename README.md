@@ -124,11 +124,11 @@ the user is responsible.
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Honspencer/WhatsAsenaDuplicated)
 
-> [WhatsAsena Wiki (Full Guide)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki) 
+> [WhatsAsena Wiki (Full Guide)](https://github.com/Honspencer/WhatsAsenaDuplicated/wiki) 
 
 ### The Hard Method (Not Recommend)
 ```js
-$ git clone https://github.com/phaticusthiccy/WhatsAsenaDuplicated.git
+$ git clone https://github.com/Honspencer/WhatsAsenaDuplicated.git
 $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano config.env
