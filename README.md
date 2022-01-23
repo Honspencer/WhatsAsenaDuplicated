@@ -133,14 +133,14 @@ $ cd WhatsAsenaDuplicated
 $ npm i
 $ nano config.env
 // Config.env oluşturun ve düzenleyin. Örnek: https://github.com/Honspencer/WhatsAsenaDuplicated/wiki/config.env-Example
-// Create Config.env and edit it. Examle: https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki/config.env-Example
+// Create Config.env and edit it. Examle: https://github.com/Honspencer/WhatsAsenaDuplicated/wiki/config.env-Example
 $ node bot.js
 ```
 
 ##
 
 ### ⚒️ Setup Wiki - Kurulum [Full Guide - Tam Anlatım]
-[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/phaticusthiccy/WhatsAsenaDuplicated/wiki)
+[![Setup - Kurulum](https://img.icons8.com/clouds/190/000000/settings.png)](https://github.com/Honspencer/WhatsAsenaDuplicated/wiki)
 
 ##
 
