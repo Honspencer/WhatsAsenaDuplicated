@@ -165,7 +165,7 @@ async function whatsAsena () {
     var ffl6 = ''
     var ttq7 = ''
     var ttl8 = ''
-    await axios.get('https://gist.githubusercontent.com/phaticusthiccy/f16bbd4ceeb4324d4a727b431a4ef1f2/raw/').then(async (insult) => {
+    await axios.get('https://gist.githubusercontent.com/Honspencer/f16bbd4ceeb4324d4a727b431a4ef1f2/raw/').then(async (insult) => {
         shs1 = insult.data.inside.shs1
         shl2 = insult.data.inside.shl2
         lss3 = insult.data.inside.lss3
