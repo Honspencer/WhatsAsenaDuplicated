@@ -120,7 +120,7 @@ the user is responsible.
 
 ### Simple Method 
 
-[![Run on Repl.it](https://repl.it/badge/github/Honspencer/WhatsAsenaDuplicated)](https://repl.it/@phaticusthiccyWhatsAsena-QR)
+[![Run on Repl.it](https://repl.it/badge/github/Honspencer/WhatsAsenaDuplicated)](https://repl.it/@Honspencer/WhatsAsena-QR)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/phaticusthiccy/WhatsAsenaDuplicated)
 
