@@ -159,7 +159,7 @@ If you are concerned about security, you can install it on your own computer. If
 Yes. WhatsAsena comes with more than 170 internal command. Which including unique packages, machine learning AIs, fastly tools etc.. Users can add new features their bots. Check our [telegram group](https://t.me/AsenaSupport) .
 
 ### 🛡️ Cyber Attack Protection?
-Only original [WhatsAsena](https://github.com/phaticusthiccy/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
+Only original [WhatsAsena](https://github.com/Honspencer/WhatsAsenaDuplicated) do this. It has own unique protection style inside WhatsAsena's database. It protect your phone from WhatApp attacks. Thats mean all fake creations carries a big risk for users privacy.
 
 ### 🧠 What is Eva Neural AI?
 **Eva** is powered with neural networks, artificial brain cells and brain that can remember conversation. **Eva** developed by me for like a virtual assistants. __(Siri, Sam, Tesla etc..)__ 
